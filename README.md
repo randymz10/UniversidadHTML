@@ -6,7 +6,9 @@ Repositorio con el código y los ejercicios para el curso de Universidad HTML de
 
 6. **Lección 6:** 
 - Elementos _inline (span)_ y _block (div)_.
-- Atributo _class_
+- Atributos _class_ y _id_.
+- _Marcadores_ o _Bookmarks_ en HTML.
+- _iFrames_ en HTML.
 
 ## Contacto
 
