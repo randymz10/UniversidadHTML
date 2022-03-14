@@ -10,6 +10,12 @@ Repositorio con el código y los ejercicios para el curso de Universidad HTML de
 - _Marcadores_ o _Bookmarks_ en HTML.
 - _iFrames_ en HTML.
 
+7. **Lección 7:**
+- Formularios en HTML
+- Validar Formularios en HTML
+- Método _GET_ y _POST_ en HTML
+
+
 ## Contacto
 
 - [@randymz10](https://github.com/randymz10)
