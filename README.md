@@ -14,7 +14,8 @@ Repositorio con el código y los ejercicios para el curso de Universidad HTML de
 - Formularios en HTML
 - Validar Formularios en HTML
 - Método _GET_ y _POST_ en HTML
-
+- Tipos Email y Number en Formularios HTML
+- Radiobuttons y Checkboxes en formularios HTML
 
 ## Contacto
 
