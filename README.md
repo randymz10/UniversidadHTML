@@ -11,12 +11,13 @@ Repositorio con el código y los ejercicios para el curso de Universidad HTML de
 - _iFrames_ en HTML.
 
 7. **Lección 7:**
-- Formularios en HTML
-- Validar Formularios en HTML
-- Método _GET_ y _POST_ en HTML
-- Tipos Email y Number en Formularios HTML
-- Radiobuttons y Checkboxes en formularios HTML
-- Elementos Select y TextArea en HTML
+- Formularios en HTML.
+- Validar Formularios en HTML.
+- Método _GET_ y _POST_ en HTML.
+- Tipos Email y Number en Formularios HTML.
+- Radiobuttons y Checkboxes en formularios HTML.
+- Elementos Select y TextArea en HTML.
+- Fieldset y Legend en Formularios HTML.
 
 ## Contacto
 
