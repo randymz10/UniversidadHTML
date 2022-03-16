@@ -14,10 +14,10 @@ Repositorio con el código y los ejercicios para el curso de Universidad HTML de
 - Formularios en HTML.
 - Validar Formularios en HTML.
 - Método _GET_ y _POST_ en HTML.
-- Tipos Email y Number en Formularios HTML.
-- Radiobuttons y Checkboxes en formularios HTML.
-- Elementos Select y TextArea en HTML.
-- Fieldset y Legend en Formularios HTML.
+- Tipos _Email_ y _Number_ en Formularios HTML.
+- _Radiobuttons_ y _Checkboxes_ en formularios HTML.
+- Elementos _Select_ y _TextArea_ en HTML.
+- _Fieldset_ y _Legend_ en Formularios HTML.
 - Atributos del elemento form en HTML.
 - Atributos elemento input.
 - Formulario Login con HTML y CSS.
