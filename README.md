@@ -20,7 +20,7 @@ Repositorio con el código y los ejercicios para el curso de Universidad HTML de
 - Fieldset y Legend en Formularios HTML.
 - Atributos del elemento form en HTML.
 - Atributos elemento input.
-- Formulario Login con HTML y CS
+- Formulario Login con HTML y CSS.
 
 ## Contacto
 
