@@ -13,6 +13,15 @@
        <form>
         <fieldset>
             <legend>Datos Persona: </legend>
+            
+            <!--Atributo readonly y disable-->
+            <label for="idPersona">ID Persona:</label><br>
+            <input type="text" id="isPersona" name="idPersona"
+            readonly value="100" required="true" disable="true"><br>
+
+            <!--valor oculto-->
+            <input type="hidden" id="sistema" name="sistema" value="SAP">
+
             <!--Text-->
             <label for="nombre">Nombre:</label><br>
             <input type="text" id="nombre" name="nombre"
@@ -63,6 +72,8 @@
             <input type="submit" value="Enviar">
             <input type="submit" value="Enviar sin validar"
             formnovalidate> 
+            <!--Reset-->
+            <input type="reset" value="Restablecer">
         </fieldset>
     </form>
 </body>
