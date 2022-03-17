@@ -22,6 +22,10 @@ Repositorio con el código y los ejercicios para el curso de Universidad HTML de
 - Atributos elemento input.
 - Formulario Login con HTML y CSS.
 
+8. **Lección 8**
+
+- Etiquetas semánticas en HTML
+
 ## Contacto
 
 - [@randymz10](https://github.com/randymz10)
