@@ -1,33 +1,34 @@
-# Universidad HTML
+# University HTML
 
-Repositorio con el código y los ejercicios para el curso de Universidad HTML de Udemy con el Ing Ulbaldo Acosta
+Repository with the code and exercises for the Udemy HTML University course with Ing Ulbaldo Acosta.
 
-## Sumario
+## Sumary
 
-6. **Lección 6:** 
-- Elementos _inline (span)_ y _block (div)_.
-- Atributos _class_ y _id_.
-- _Marcadores_ o _Bookmarks_ en HTML.
-- _iFrames_ en HTML.
+6. **Lesson 6:** 
+- _inline (span)_ and _block (div)_ elements.
+- _class_ and _id_ attributes.
+- _Bookmarks_ or _Bookmarks_ in HTML.
+- _iFrames_ in HTML.
 
-7. **Lección 7:**
-- Formularios en HTML.
-- Validar Formularios en HTML.
-- Método _GET_ y _POST_ en HTML.
-- Tipos _Email_ y _Number_ en Formularios HTML.
-- _Radiobuttons_ y _Checkboxes_ en formularios HTML.
-- Elementos _Select_ y _TextArea_ en HTML.
-- _Fieldset_ y _Legend_ en Formularios HTML.
-- Atributos del elemento form en HTML.
-- Atributos elemento input.
-- Formulario Login con HTML y CSS.
+7. **Lesson 7:**
 
-8. **Lección 8**
+- Forms in HTML.
+- Validate Forms in HTML.
+- Method _GET_ and _POST_ in HTML.
+- Types _Email_ and _Number_ in HTML Forms.
+- _Radiobuttons_ and _Checkboxes_ in HTML forms.
+- _Select_ and _TextArea_ elements in HTML.
+- _Fieldset_ and _Legend_ in HTML Forms.
+- Attributes of the form element in HTML.
+- Input element attributes.
+- Login form with HTML and CSS.
 
-- Etiquetas semánticas en HTML
+8. **Lesson 8**
 
-## Contacto
+- Semantic tags in HTML
 
-- [@randymz10](https://github.com/randymz10)
+## Contact
+
+- **GitHub** [@randymz10](https://github.com/randymz10)
 - **LinkedIn:** https://linkedin.com/in/randymz10
 - **Email:** randymz10@gmail.com 
